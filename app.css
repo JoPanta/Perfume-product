@@ -148,6 +148,11 @@ sup {
   gap: 0.75rem;
 }
 
+.button:hover {
+  background-color: rgba(26, 64, 49, 255);
+  cursor: pointer;
+}
+
 @media (min-width: 650px) {
   .card {
     display: flex;
